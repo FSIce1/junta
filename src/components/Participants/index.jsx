@@ -11,9 +11,6 @@ function Participants () {
                 <ListGroup.Item>Alonso Siesquen Valdivia</ListGroup.Item>
                 <ListGroup.Item>Delia Valdivia Velásquez</ListGroup.Item>
             </ListGroup>
-
-            <Button variant="primary">Primary</Button>
-
         </div>
     )
 }

@@ -23,11 +23,14 @@ import Participants from '../Participants';
 
 function Home () {
     return (
-    <BrowserRouter>
-        <Routes>
-            <Route path="/participantes" element={<Participants />} />
-        </Routes>
-    </BrowserRouter>
+        <div>
+            <h1>Prueba</h1>
+        </div>
+    // <BrowserRouter>
+    //     <Routes>
+    //         <Route path="/participantes" element={<Participants />} />
+    //     </Routes>
+    // </BrowserRouter>
     )
 }
 
